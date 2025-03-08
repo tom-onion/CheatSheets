@@ -28,3 +28,4 @@ Common Doubts 💡
 >A logical error is a mistake in the program's logic that causes it to produce the wrong output, even though it compiles and runs without crashing.
 
 For example, if you're trying to calculate the average of two numbers and you add them but forget to divide by 2, that's a logical error. The program will still run, but the result will be incorrect.
+[https://www.codechef.com/learn/course/cpp/DEBUGCPPBEG/problems/DEBUGCPPL2]
