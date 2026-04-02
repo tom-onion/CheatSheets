@@ -23,5 +23,5 @@ I'm an Computer Science Student & A Full Stack Web Developer
 ```
 ## Feedback
 
-If you have any feedback, please reach out to us at nanthdhaya7@outlook.com
+If you have any feedback, please reach out at nanthdhaya7@outlook.com
 
